@@ -1,0 +1,11 @@
+C:\src\New Pract App\PractApp\PractApp\bin\Debug\netcoreapp1.1\PractApp.deps.json
+C:\src\New Pract App\PractApp\PractApp\bin\Debug\netcoreapp1.1\PractApp.runtimeconfig.json
+C:\src\New Pract App\PractApp\PractApp\bin\Debug\netcoreapp1.1\PractApp.runtimeconfig.dev.json
+C:\src\New Pract App\PractApp\PractApp\bin\Debug\netcoreapp1.1\PractApp.dll
+C:\src\New Pract App\PractApp\PractApp\bin\Debug\netcoreapp1.1\PractApp.pdb
+C:\src\New Pract App\PractApp\PractApp\obj\Debug\netcoreapp1.1\PractApp.csprojResolveAssemblyReference.cache
+C:\src\New Pract App\PractApp\PractApp\obj\Debug\netcoreapp1.1\PractApp.csproj.CoreCompileInputs.cache
+C:\src\New Pract App\PractApp\PractApp\obj\Debug\netcoreapp1.1\PractApp.AssemblyInfoInputs.cache
+C:\src\New Pract App\PractApp\PractApp\obj\Debug\netcoreapp1.1\PractApp.AssemblyInfo.cs
+C:\src\New Pract App\PractApp\PractApp\obj\Debug\netcoreapp1.1\PractApp.dll
+C:\src\New Pract App\PractApp\PractApp\obj\Debug\netcoreapp1.1\PractApp.pdb
